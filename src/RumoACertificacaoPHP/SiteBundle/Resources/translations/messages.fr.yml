@@ -1,0 +1,18 @@
+pt: Português
+en: English
+fr: Français
+
+home:
+    title: Accueil
+
+site:
+    question: 
+        today: Question du jour
+    title: Vers la certification PHP
+    home:
+        title: teste fr
+    menu:
+        home: Accueil
+        whoarewe: Présentation
+    certification:
+        title: L'importance de la certification

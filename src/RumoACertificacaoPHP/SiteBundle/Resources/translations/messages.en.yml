@@ -1,0 +1,16 @@
+pt: Português
+en: English
+fr: Français
+
+home:
+    title: Home
+
+site:
+    question: 
+        today: Question of the Day
+    title: Towards PHP Certification
+    menu:
+        home: Home
+        whoarewe: Who are we
+    certification:
+        title: The Importance of Certification

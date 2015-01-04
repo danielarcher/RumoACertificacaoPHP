@@ -1,0 +1,16 @@
+pt: Português
+en: English
+fr: Français
+
+home:
+    title: Início
+
+site:
+    question: 
+        today: Pergunta do Dia
+    title: Rumo à Certificação PHP
+    menu:
+        home: Início
+        whoarewe: Quem Somos
+    certification:
+        title: A Importância da Certificação
